@@ -2,7 +2,7 @@
 
 all I do is make discord bots then stop once things get hard
 
-currently a software development intern at iCIMS 
+was a software developer intern at iCIMS
 
 best place to reach me is on twitter at @marriaga158
 
