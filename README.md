@@ -1,12 +1,10 @@
 ### Marco Arriaga
 
-all I do is make discord bots then stop once things get hard
+Software Developer (looking for a job!)
 
-was a software developer intern at iCIMS
+Most of these projects are Discord bots that I made in my free time or when I was bored.
 
-best place to reach me is on twitter at @marriaga158
-
-feel free to message me about any questions regarding any of my projects
+Feel free to reach out to me on Twitter at @marriaga158 or on Discord as kelp#6063
 
 <!--
 **marriaga158/marriaga158** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
