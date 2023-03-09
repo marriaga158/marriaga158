@@ -1,6 +1,6 @@
 ### Marco Arriaga
 
-Software Developer (looking for a job!)
+Software Developer
 
 Most of these projects are Discord bots that I made in my free time or when I was bored.
 
