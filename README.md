@@ -4,7 +4,7 @@ Software Developer
 
 Most of these projects are Discord bots that I made in my free time or when I was bored.
 
-Feel free to reach out to me on Twitter at @marriaga158 or on Discord as kelp#6063
+Feel free to reach out to me on Twitter at @marriaga158 or on Discord as kelp6063
 
 <!--
 **marriaga158/marriaga158** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
